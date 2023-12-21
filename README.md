@@ -20,8 +20,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ## Program:
 ```
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: NAVEEN KUMAR.B
-RegisterNumber: 212222230091 
+Developed by: Dharshan D
+RegisterNumber: 23001663
 import numpy as np
 import sys
 n=int(input())
